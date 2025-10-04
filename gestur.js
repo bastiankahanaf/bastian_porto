@@ -6,4 +6,4 @@ gsap.from('.card', {
   ease: 'power3.out',
 });
 
-// test perubahan untuk belajar push ke github
+// test perubahan untuk belajar push ke github ini tambahan untuk versi 2
